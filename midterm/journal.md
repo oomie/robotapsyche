@@ -8,5 +8,5 @@ You are tasked with looking after a group of children, you have to please them b
 
 Option 2: Birds
 
-You're at the park birdwatching and feeding a group of the birds, observing how they fly and how they are attracted to you when you give them food. Some of them may come, eat a little of the food you dropped for them, then fly off before coming back for more. Some of the other birds may exhibit different behaviors, watch and see!
+You're at the park birdwatching and feeding a group of the birds, observing how they fly and how they are attracted to you when you give them food. Some of them may come, eat a little of the food you dropped for them, then fly off before coming back for more. Some of the other birds may exhibit different behaviors, watch and see! Maybe the birds can fly through a flowfield?
 
