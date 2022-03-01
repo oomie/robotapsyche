@@ -25,3 +25,11 @@ CHLOE : She gets loud sometimes.. but she's a major sweet tooth so she will list
 MECHANICS: I think I'm going to go with pressing keys, so 'S' for stickers, 'C' for candy and 'B' for banana milk. 
 
 Each child has an adoration level towards you, starting with 0 and capping at 10. You gain points by pleasing them of course, and lose them by ignoring the kids for a specific amount of time. 
+
+The kids will be moving around this yard background:
+<img width="648" alt="bg" src="https://user-images.githubusercontent.com/90758596/156183603-4b7937fb-21f5-4366-baf6-b0217f6037e3.png">
+
+I'm planning on it being first-person POV (the user's pov) and it should look something like this, with the kids in the yard and the keyboard instructions somewhere on the top half of the screen.
+
+![sketch](https://user-images.githubusercontent.com/90758596/156185882-8afef574-fc12-4a4e-8521-35f28ea881e0.jpg)
+
