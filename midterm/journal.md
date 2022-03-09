@@ -26,7 +26,7 @@ MECHANICS: I think I'm going to go with pressing keys, so 'S' for stickers, 'C' 
 
 Each child has an adoration level towards you, starting with 0 and capping at 10. You gain points by pleasing them of course, and lose them by ignoring the kids for a specific amount of time. 
 
-The kids will be moving around this yard background:
+The kids will be moving around this yard background: (image from phineas and ferb) 
 <img width="648" alt="bg" src="https://user-images.githubusercontent.com/90758596/156183603-4b7937fb-21f5-4366-baf6-b0217f6037e3.png">
 
 I'm planning on it being first-person POV (the user's pov) and it should look something like this, with the kids in the yard and the keyboard instructions somewhere on the top half of the screen.
@@ -40,4 +40,5 @@ I have decided to go with two kids rather than three, Mei and Sam, and have them
 I also added some feedback when the kids adoration levels get to 10: their images change to having hearts above their heads, and when both children have adoration levels > 10, text appears onscreen indicating that they both like you now! Mission success! 
 
 
+MUSIC: from https://youtu.be/38NTZg34QFM
 
