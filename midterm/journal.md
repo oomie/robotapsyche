@@ -33,3 +33,11 @@ I'm planning on it being first-person POV (the user's pov) and it should look so
 
 ![sketch](https://user-images.githubusercontent.com/90758596/156185882-8afef574-fc12-4a4e-8521-35f28ea881e0.jpg)
 
+
+## UPDATES:
+
+I have decided to go with two kids rather than three, Mei and Sam, and have them both like candy instead of different things. The candy is on your mouse, and you click on the kids to give them candy. When you give them the candy, they behave for a few seconds, then go back to moving around. Mei moves around the yard while Sam jumps in one place. Their adoration levels are represented by a bar onscreen, and it inscreases when you click on the kids, then decreases when you ignore them for a set amount of time. Keypressed isnt being used anymore for actual gameplay, it is just used to change screens. I felt like using too many keys would be overcomplicated for the user, so I decided to use mousePressed. 
+I also added some feedback when the kids adoration levels get to 10: their images change to having hearts above their heads, and when both children have adoration levels > 10, text appears onscreen indicating that they both like you now! Mission success! 
+
+
+
