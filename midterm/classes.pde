@@ -17,7 +17,7 @@ class Mei {
     pmei = mei1;
   }  //constructor end
 
-  //functions:
+  //display function : just displays the image and changes its height if the image changes.
   void display() {
     image(pmei, location.x, location.y, sizew, sizeh);
 
@@ -27,7 +27,7 @@ class Mei {
      sizeh = 200;
     }
   }
-
+// move function : she gets a random velocity and moves around the yard. Also contains the timer stuff, so she gets angry every 4 seconds and the timer restarts. If her adoration is >= 10 her image switches. 
   void move() {
     if (adoration >= 1 && adoration < 10) {
       velocity.x += random (-1, 1);
@@ -53,6 +53,7 @@ class Mei {
     }
   } // move function end
 
+// the edge function is just to make sure she doesnt fly offscreen, so i change her velocity to get her moving in the opposite direction
   void edge() {
     if (location.x >= width-50) {
       velocity.x =  random(-1, 0);
@@ -84,7 +85,7 @@ class Sam {
     psam = sam1;
   } //constructor end
 
-  //functions:
+  //display function : just displays the image and changes its height if the image changes.
   void display() {
     image(psam, location.x, location.y, sizew, sizeh);
     if (psam == sam3) {
@@ -93,7 +94,7 @@ class Sam {
      sizeh = 200;
     }
   }
-
+ // sam's move contains the timer and adoration code similar to mei's. 
   void move() {
     if (adoration >= 1 && adoration < 10) {
       if (frameCount % 300 == 0) { // every 6 seconds
@@ -115,6 +116,9 @@ class Sam {
     }
   } // move function end
 
+
+// the jump function : jump is true when sam is angry, and if sam is above ground, gravity is applied so he jumps back down, 
+// he stops jumping if jump is false (when mouse is pressed) and if jump is true and he is on the ground he will jump up. 
   void jump() {
     if (psam == sam2) {
       jump = true;
