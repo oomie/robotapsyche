@@ -1,1 +1,10 @@
+# Presentation Summary:
+
+My presentation was about Robots and Emotion. I explored the meaning of emotion, which is hard for us to pinpoint despite us being so familiar with it. I also discussed the importance of emotion in Robots and AI, and showed what progress we have so far in emotional technology. 
+
+It is argued that Robots and AI need to be logical and perform tasks without the hindrance of being emotional and human-like. Most information-processing architectures of intelligent robots focus on cognition. They see emotions as more of an add-on to robots rather than a necessity; but emotions affect perceptions and thoughts and change the way we make decisions. We need to intertwine cognition and emotion to produce intelligent, autonomous robots that are able to interact with humans. However, modern-day robotics tends to focus more on producing physically advanced robots, acting more like tools than humans. I brought forth the idea of Internal Robotics, which focuses on emotional and cognitive intelligence, and mentioned a suggestion by researchers which was to develop a form of inner speech in robots to make them think more like humans.
+
+Next, I delved into the progress we have in producing emotional robots, including Cozmo by Anki, an autonomous robot that appears to have emotions and personality, and we agreed in class that Cozmo seems lovable and genuine, like a pet. I followed this by including Emotion AI, a branch of AI that focuses on understanding and analyzing emotions through muscle movements and facial expressions. I also mentioned Moxie and Pepper, which are robots designed to help humans with their emotions and communication. An interesting point that was brought up in the discussion was the fact that not all humans can empathize or have the same degree of emotional intelligence, so the same would be expected of robots.
+
+To conclude, currently Robots and AI cannot feel emotions like humans, since most advancements have been more about analyzing human emotions rather than developing emotional technology in robots. 
 
